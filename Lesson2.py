@@ -1,3 +1,4 @@
+# https://itstepedu-my.sharepoint.com/:u:/g/personal/moroz_oo_itstep_academy/EU-MaXNmUu5BldGntYpBYEYBvJD3E--zoLFK-lXfML15Vg?e=CbcCZG
 # #1007
 # N = float(input())
 # N = int(N)*2
