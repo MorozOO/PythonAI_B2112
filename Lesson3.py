@@ -1,3 +1,4 @@
+# https://itstepedu-my.sharepoint.com/:u:/g/personal/moroz_oo_itstep_academy/EU-MaXNmUu5BldGntYpBYEYBv8bj7ZnH0-6V7TbBCqlw9w?e=jhIyeo
 #1015
 
 # seconds = int(input())
